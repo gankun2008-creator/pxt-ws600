@@ -1,0 +1,6 @@
+{
+  "name": "pxt-ws600-validation",
+  "private": true,
+  "scripts": {"test": "node tools/test.js"},
+  "devDependencies": {"typescript": "4.8.3", "pxt-microbit": "9.1.1"}
+}

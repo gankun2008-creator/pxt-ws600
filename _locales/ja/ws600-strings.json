@@ -1,0 +1,20 @@
+{
+    "{id:category}ws600": "WS2812 600",
+    "ws600.rgb|block": "赤 %r 緑 %g 青 %b",
+    "ws600.create|block": "WS2812 ピン %pin LED数 %count || 色順 %order",
+    "ws600.Strip.length|block": "%strip のLED数",
+    "ws600.Strip.getPixelColor|block": "%strip のLED %index の保存色",
+    "ws600.Strip.setBrightness|block": "%strip の明るさを %brightness にする",
+    "ws600.Strip.setPixelColor|block": "%strip のLED %index を色 %color にする",
+    "ws600.Strip.setPixelRGB|block": "%strip のLED %index を赤 %r 緑 %g 青 %b にする",
+    "ws600.Strip.fill|block": "%strip を色 %color で塗る",
+    "ws600.Strip.fillRGB|block": "%strip を赤 %r 緑 %g 青 %b で塗る",
+    "ws600.Strip.rangeFill|block": "%strip の %start 番から %length 個を色 %color にする",
+    "ws600.Strip.setRangeRGB|block": "%strip の %start 番から %length 個を赤 %r 緑 %g 青 %b にする",
+    "ws600.Strip.clear|block": "%strip のバッファを消去",
+    "ws600.Strip.show|block": "%strip をLEDへ送信",
+    "ws600.Strip.shift|block": "%strip を %amount 個ずらす",
+    "ws600.Strip.rotate|block": "%strip を %amount 個回転",
+    "ws600.Strip.setHue|block": "%strip のLED %index を色相 %hue にする",
+    "ws600.Strip.rainbow|block": "%strip を色相 %startHue から %endHue の虹色にする"
+}

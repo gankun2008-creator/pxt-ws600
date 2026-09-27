@@ -1,0 +1,23 @@
+{
+    "name": "ws600",
+    "version": "1.0.0",
+    "description": "Single-buffer RGB WS2812 strips up to 600 LEDs for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.2"
+    },
+    "files": [
+        "ws600.ts",
+        "README.md",
+        "_locales/ja/ws600-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
